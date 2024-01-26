@@ -30,6 +30,10 @@ Simple command-line calculator program written in x86-64 assembly language for L
 
 ### Example Output
 
+![Alt text](https://github.com/Shaunak-Natu/Calculator_Using_Assembly/blob/main/Output%20Images/output1.png "Output 1")
+
+![Alt text](https://github.com/Shaunak-Natu/Calculator_Using_Assembly/blob/main/Output%20Images/output2.png "Output 2")
+
 ### Acknowledgements
   1. https://github.com/mjbrusso/util.asm
 
